@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1,h2,p{
+    color:white
+}
+.one{
+    max-width: 100%;
+    height: 80px;
+    text-align: center;
+    text-align: top;
+    font-size: 30px;
+    border-color: red;
+    box-shadow: 1rem;
+    border: 1px solid white;
+}
+body{
+    padding-bottom: 100px;
+    background-image: url(N1.jpg);
+}
+.main1{
+
+    width: 500px;
+    height: 1000px;
+    margin-left: 480px;
+    margin-right: 300px;
+    margin-top: 20px;
+    border: 6px solid white;
+}
+#char1{
+    text-align: center;
+    font-size: 50px;
+    margin-left: 25px;
+}
+#two{
+    border: 2px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#three{
+    font-size: 30px;
+    margin-left: 10px;
+}
+#serving{
+    font-size: 30px;
+    margin-left: 10px;
+}
+#e1{
+    margin-left: 10px;
+}
+#char3{
+    margin-right: 50px;
+}
+
+#num{
+    font-size: 30px;
+    margin-left: 10px;
+    width: 90px;
+}
+#cal{
+    font-size: 30px;
+    margin-left: 10px;
+    width:30px;
+
+}
+#cup{
+    text-align: end;
+    vertical-align: middle;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.flex1{
+    display: flex;
+    margin-left: 950px;
+   vertical-align: 30px;
+}
+#e4{
+    margin-left: 5px;
+    font-size: medium;
+    font-size: 20px;
+}
+
+.solid{
+    border: 6px solid white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin: 10px;
+
+}
+.solid1{
+    border: 4px solid white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin: 10px;
+}
+.solid2{
+    border: 1px solid white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin: 10px;
+    display: flex;
+}
+#e2{
+    text-align: end;
+    margin-right: 15px;
+    color: white;
+}
+#e3{
+    margin-right: 15px;
+    color:white
+}
+
+.fat{
+    display: flex;
+    justify-content: space-between;
+}
+#char3{
+    font-size: 20px;
+    margin-right: 260px;
+    
+}
+.solid4{
+    border: 4px solid white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin: 10px;
+
+}
